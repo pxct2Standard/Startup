@@ -1,0 +1,6 @@
+
+*.pyc
+*.iml
+*.xml
+venv/Scripts/pyuic5.exe
+venv/Scripts/pythonw.exe
